@@ -16,6 +16,6 @@ At the completion of their lessons, pupils may sit for a driving test. If they f
 another date. The examiner who conducts the test is one of the instructors of the driving school.
 
 
-Note: There is many to many relationship between Instructor and Pupils which is resolved by new join table instructorPuils table, whcih contains the primary key from both table.
+Note: There is many to many relationship between Instructor and Pupils which is resolved by new join table Instructorpupil table, whcih contains the primary key from both table.
 
 
