@@ -8,7 +8,9 @@ Data Modeling in analysis is the process of creating a visual representation, ab
 
 2.Logical Data Model: In the logical data model, the conceptual model is further developed by providing a detailed representation of the data at a logical level. It defines the tables, columns, relationships, and constraints that form the data structure.  
 
-3.Physical Data Model: In the Physical Data Model, the implementation is described in the context of a specific database system. It details all components and services required to build the database, including queries and the database language used for its creation.
+3.Physical Data Model: In the Physical Data Model, the implementation is described in the context of a specific database system. It details all components and services required to build the database, including queries and the database language used for its creation.   
+
+----
 
 **ER-Model:** The Entity-Relationship Model (ER model) is a high-level relational model used to define the data elements and relationships between entities within a system. This conceptual design provides a clearer, more comprehensible view of the data. The entire database is represented in an Entity-Relationship Diagram (ERD), which consists of entities, attributes, and relationships.
 
@@ -58,21 +60,19 @@ Note: There is many to many relationship between Instructor and Pupils which is 
 
 Use the following business rules to create a Crow’s Foot ERD and give RDM for each
 entity in your ERD.
- A department employs many employees, but each employee is employed by one department.  
+A department employs many employees, but each employee is employed by one department.  
 
- Some employees, known as “rovers,” are not assigned to any department.  
+Some employees, known as “rovers,” are not assigned to any department.  
 
- A division operates many departments, but each department is operated by one division.  
+A division operates many departments, but each department is operated by one division.  
 
- An employee may be assigned many projects, and a project may have many employees
-assigned to it.  
+An employee may be assigned many projects, and a project may have many employees
+assigned to it. A project must have at least one employee assigned to it.  
 
- A project must have at least one employee assigned to it.  
-
- One of the employees manages each department, and each department is managed by only
+One of the employees manages each department, and each department is managed by only
 one employee.  
 
- One of the employees runs each division, and each division is run by only one employee.
+One of the employees runs each division, and each division is run by only one employee.
 
 
 
