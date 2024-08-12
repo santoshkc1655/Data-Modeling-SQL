@@ -1,5 +1,7 @@
 # Data Modeling and SQL in Relational Database Design for Analytics
-Data Modeling in analysis is the process of creating a visual representation, abstraction of data structures, relationships, and rules within a system or organization. The main objective of data modeling is to provide a precise and well organized framework for dta organization and representation, since it enables efficent analysis and decision making. Analyst can discover trends, understand the connection between various items, and make sure that data is efficiently and accurately stored by building models.
+Data Modeling in analysis is the process of creating a visual representation, abstraction of data structures, relationships, and rules within a system or organization. The main objective of data modeling is to provide a <ins>precise and well organized framework for data organization and representation, since it enables efficent analysis and decision making</ins>. Analyst can discover trends, understand the connection between various items, and make sure that data is efficiently and accurately stored by building models.
+
+
 
 ## There are three main types of data models; 
 1.Conceptual Data Model: Represents data by exploring and detailing abstract, high-level business concepts and structures in depth.
