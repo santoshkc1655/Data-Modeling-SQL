@@ -19,7 +19,6 @@ For each property that an owner owns the percentage of ownership must be recorde
 called OwnerPercentage
 
 
-
 Case 2: 
 There are many different driving schools, each school is described by a number (unique), a name and an
 address. Each school has many instructors working for it, however each instructor only works for one school. Attributes
@@ -35,4 +34,16 @@ another date. The examiner who conducts the test is one of the instructors of th
 
 Note: There is many to many relationship between Instructor and Pupils which is resolved by new join table Instructorpupil table, whcih contains the primary key from both table.
 
+case 3 :
 
+Use the following business rules to create a Crow’s Foot ERD and give RDM for each
+entity in your ERD.
+ A department employs many employees, but each employee is employed by one department.
+ Some employees, known as “rovers,” are not assigned to any department.
+ A division operates many departments, but each department is operated by one division.
+ An employee may be assigned many projects, and a project may have many employees
+assigned to it.
+ A project must have at least one employee assigned to it.
+ One of the employees manages each department, and each department is managed by only
+one employee.
+ One of the employees runs each division, and each division is run by only one employee.
