@@ -54,8 +54,6 @@ At the completion of their lessons, pupils may sit for a driving test. If they f
 another date. The examiner who conducts the test is one of the instructors of the driving school.
 
 
-Note: There is many to many relationship between Instructor and Pupils which is resolved by new join table Instructorpupil table, whcih contains the primary key from both table.
-
 *Case 3:*
 
 Use the following business rules to create a Crow’s Foot ERD and give RDM for each
