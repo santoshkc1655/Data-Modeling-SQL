@@ -79,6 +79,7 @@ one employee.
 **My Learnings:**
 - Data modeling concepts
 - Entity-Relationship Diagrams (ERD) including entities, attributes, relationships, cardinality, and participation
+- Solving many to many relationship between entities
 - Business rule implementation
 - Relational database design
 - Crow's Foot notation
