@@ -3,7 +3,7 @@ Data Modeling in analysis is the process of creating a visual representation, ab
 
 
 
-## There are three main types of data models; 
+## There are three levels of data models involved in the data modelling process; 
 1.Conceptual Data Model: Represents data by exploring and detailing abstract, high-level business concepts and structures in depth.
 
 2.Logical Data Model: In the logical data model, the conceptual model is further developed by providing a detailed representation of the data at a logical level. It defines the tables, columns, relationships, and constraints that form the data structure.  
